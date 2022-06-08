@@ -6,4 +6,17 @@ body {
 }
 h2 {
 	height: 20px;
+h1 {
+	height: auto;
+}
+h3 {
+	white-space: 54px;
+}
+body {
+	color: aquamarine;
+>>>>>>> midle-master
+}
+
+body {
+	height: 20px;
 }
